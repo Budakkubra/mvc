@@ -1,0 +1,72 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+    ViewBag.Title = "Anasayfa";
+}
+
+
+
+
+
+
+<div id="carouselExampleCaptions" class="carousel slide">
+
+
+    @{
+        Html.RenderAction("SliderPartial", "Home");
+    }
+
+</div>
+
+@*<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+        @{Html.RenderAction("SliderPartial", "Home"); }
+
+    </div>*@
+
+
+
+
+
+
+
+<main id="main">
+
+
+
+    <section class="portfolio">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <h3>Hizmetlerimiz </h3>
+                    <div class="row portfolio-container" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="200">
+
+                        @foreach (var item in ViewBag.Hizmetler)
+                        {
+                            <div class="col-lg-3 col-md-6 portfolio-wrap filter-app">
+                                <div class="portfolio-item">
+                                    <img src="@item.ResimURL" class="img-fluid" alt="">
+                                    <div class="portfolio-info">
+                                        <h3>@item.Baslik</h3>
+                                        <div>
+
+                                            <a href="@item.ResimURL" data-gallery="portfolioGallery" class="portfolio-lightbox" title="@item.Aciklama"><i class="bx bx-plus"></i></a>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+ 
+
+
+
+
+
+</main><!-- End #main -->

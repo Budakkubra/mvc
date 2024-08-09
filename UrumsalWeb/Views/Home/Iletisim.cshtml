@@ -1,0 +1,100 @@
+﻿
+
+@{
+    ViewBag.Title = "Iletisim";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<main id="main">
+
+    <!-- ======= Contact Section ======= -->
+    <section class="breadcrumbs">
+        <div class="container">
+
+            <div class="d-flex justify-content-between align-items-center">
+                <h2>İletişim</h2>
+                @if (ViewBag.Uyari == "mesajınız basarılı bır sekılde gonderılmıstır")
+                {
+                    <div class=" alert alert-info">@ViewBag.Uyari</div>
+                }
+                <ol>
+                    <li><a href="/Home/Index/">Ana Sayfa</a></li>
+                    <li>İletişim</li>
+                </ol>
+            </div>
+
+        </div>
+    </section><!-- End Contact Section -->
+    <!-- ======= Contact Section ======= -->
+    <section class="contact" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-lg-6">
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="info-box">
+                                <i class="bx bx-map"></i>
+                                <h3>Adresimiz</h3>
+                                <p>Bayındır, Oğuzcan Apartmanı, Gazi Blv. No:26/B, 07030 Muratpaşa/Antalya</p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="info-box">
+                                <i class="bx bx-envelope"></i>
+                                <h3>Email Adresimiz</h3>
+                                <p>kubrabudak2003@icloud.com<br></p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="info-box">
+                                <i class="bx bx-phone-call"></i>
+                                <h3>Bizi Arayın</h3>
+                                <p>05537111348<br></p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-6">
+
+
+                    <form action="/Home/Iletisim/" method="post" role="form" class="php-email-form">
+                        @Html.AntiForgeryToken()
+                        <div class="row">
+                            <div class="col-md-6 form-group">
+                                <input type="text" name="adsoyad" class="form-control" id="name" placeholder="İsminiz" required>
+                            </div>
+                            <div class="col-md-6 form-group mt-3 mt-md-0">
+                                <input type="email" class="form-control" name="email" id="email" placeholder="Mail Adresiniz" required>
+                            </div>
+                        </div>
+                        <div class="form-group mt-3">
+                            <input type="text" class="form-control" name="konu" id="subject" placeholder="Konu" required>
+                        </div>
+                        <div class="form-group mt-3">
+                            <textarea class="form-control" name="mesaj" rows="5" placeholder="Mesajınız" required></textarea>
+                        </div>
+                        <div class="my-3">
+                            <div class="loading">Loading</div>
+                            <div class="error-message"></div>
+                            <div class="sent-message">Mesajınız Gönderildi. Teşekkür ederim!</div>
+                        </div>
+                        <div class="text-center"><button type="submit">Mesaj Gönder</button></div>
+                    </form>
+                </div>
+
+            </div>
+
+        </div>
+    </section><!-- End Contact Section -->
+    <!-- ======= Map Section ======= -->
+    <section class="map mt-2">
+        <div class="container-fluid p-0">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3190.475158461484!2d30.6720776!3d36.9029021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c38fc09e938ac5%3A0xf26e6d027a7d7d2e!2sANTTEK!5e0!3m2!1str!2str!4v1717355500475!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section><!-- End Map Section -->
+
+</main><!-- End #main -->

@@ -1,0 +1,120 @@
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\UrumsalWeb.dll.config
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\UrumsalWeb.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\UrumsalWeb.pdb
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\csc.exe
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\csc.exe.config
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\csc.rsp
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\csi.exe
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\csi.exe.config
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\csi.rsp
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\vbc.exe
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\vbc.exe.config
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\vbc.rsp
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Helpers.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Mvc.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Razor.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Webpages.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Razor.xml
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Webpages.xml
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Helpers.xml
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Web.Mvc.xml
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\obj\Debug\UrumsalWeb.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\obj\Debug\UrumsalWeb.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\obj\Debug\UrumsalWeb.csproj.Up2Date
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\obj\Debug\UrumsalWeb.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\obj\Debug\UrumsalWeb.pdb
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\System.Buffers.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\System.Memory.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\EntityFramework.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\EntityFramework.xml
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Data.SqlClient.dll
+C:\Users\HUAWEI\Desktop\UrumsalWeb\UrumsalWeb\bin\System.Data.SqlClient.xml
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\UrumsalWeb.dll.config
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\UrumsalWeb.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\UrumsalWeb.pdb
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\csc.exe
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\csc.exe.config
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\csc.rsp
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\csi.exe
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\csi.exe.config
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\csi.rsp
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\System.Buffers.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\System.Memory.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\vbc.exe
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\vbc.exe.config
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\vbc.rsp
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\EntityFramework.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Data.SqlClient.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.Helpers.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.Mvc.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.Razor.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.WebPages.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\EntityFramework.xml
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Data.SqlClient.xml
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.Helpers.xml
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.Mvc.xml
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.Razor.xml
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.WebPages.xml
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\obj\Debug\UrumsalWeb.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\obj\Debug\UrumsalWeb.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\obj\Debug\UrumsalWeb.csproj.Up2Date
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\obj\Debug\UrumsalWeb.dll
+C:\Users\HUAWEI\Desktop\proje kopya 2\UrumsalWeb\obj\Debug\UrumsalWeb.pdb
